@@ -1,2 +1,3 @@
 User-agent: Yandex
-Sitemap: https://psihologiya-professionalnaya-perepodgotovka.vercel.app/sitemap.xml
+
+Sitemap: https://psihologiya-perepodgotovka.vercel.app/sitemap.xml
